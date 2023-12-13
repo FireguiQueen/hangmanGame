@@ -1,6 +1,6 @@
 from Modules.player import gameMode
 from Modules.player import catchWord
-from Modules.gameOptions.words import randomWord
+from Modules.gameOptions.words import takeRandomWord
 
 def word():
 
@@ -10,6 +10,6 @@ def word():
         word = list(catchWord.catchPlayerWord())
 
     else:  # 2 = the game choose the word
-        word = list(randomWord.randomWord())
+        word = list(takeRandomWord.randomWord())
 
     return word
