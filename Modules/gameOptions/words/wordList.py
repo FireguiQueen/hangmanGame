@@ -28,6 +28,7 @@ wordList = [
         "incomparavel", "vibrante", "glorioso", "triunfante", "iluminado",
         "emocionante", "deslumbrante", "jovial", "lendario", "majestoso",
         "notavel", "ousado", "quixotesco", "radiante", "sublime",
-        "transcendente", "inabalavel", "virtuoso", "zen", "extraordinario"
+        "transcendente", "inabalavel", "virtuoso", "zen", "extraordinario",
+        "celular"
 ]
 
